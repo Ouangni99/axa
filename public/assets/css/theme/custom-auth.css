@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+}
+.sign-in-btn {
+	background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%) !important;
+}
+.text-color {
+	color: #7915c5;
+}
+
+.content-justify {
+	text-align: justify;
+}
